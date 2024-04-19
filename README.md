@@ -8,7 +8,7 @@ We set the input folder and get the content URI.
 
 ## Problem:
 +++++++
-  On recent Android 11 on a particular panel (BenQ), when we are trying to access the pen drive, it does not work. 
+On recent Android 11 on a particular panel (BenQ), when we are trying to access the pen drive, it does not work.\
    
   Note that it works on Android 11 on a phone . 
 
