@@ -1,4 +1,4 @@
-# BEQN_problem
+# BENQ_problem
 
 ## Our Use case : 
 ++++++++++++++
